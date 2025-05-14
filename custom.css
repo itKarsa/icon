@@ -80,6 +80,11 @@ legend {
     bottom: 100%;
 }
 
+.btn-hasil-lab + .dropdown-riwayat-content {
+    left: auto;
+    right: 0;
+}
+
 .dropdown-riwayat:hover .dropdown-riwayat-content {
     display: block;
 }
