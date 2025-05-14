@@ -68,7 +68,7 @@ legend {
     display: none;
     position: absolute;
     background-color: #fff;
-    width: max(275px, 35vw);
+    width: 30vw;
     max-width: 45vw; 
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
