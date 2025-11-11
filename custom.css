@@ -1,3 +1,7 @@
+:root {
+    --color-primary: #4672ff;   
+}
+
 legend {
     font-size: 1rem;
     padding-top: 10px;
